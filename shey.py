@@ -1,8 +1,12 @@
 def math(a,b):
 
     while(a<=b):
-        print(a1)
+        print(a)
+
         a = a + 1
+         
+         #hhhhh
+
 
 box = int(input("enter "))
 
